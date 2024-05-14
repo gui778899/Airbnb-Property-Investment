@@ -57,9 +57,7 @@ To run the final application, it needs to be installed the following libraries:
 2. Navigate to the `Release` folder in the `final_app` directory.
 3. On a Windows machine, double-click the executable file `predictor_app_frontend` to start the frontend application.
 
-### Video Demonstration of the Application
 
-To see the application up and running with different real-world cases, please refer to this video: [Application Demonstration Video](https://livecoventryac-my.sharepoint.com/personal/sousagoncj_uni_coventry_ac_uk/_layouts/15/stream.aspx?id=%2Fpersonal%2Fsousagoncj%5Funi%5Fcoventry%5Fac%5Fuk%2FDocuments%2F3%20Year%2FFinal%20thesis%2Fthesis%20app%201080p%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopiedShareExpTreatment%2Eview-)
 
 
 ### 6001CEM Thesis
