@@ -57,9 +57,3 @@ To run the final application, it needs to be installed the following libraries:
 2. Navigate to the `Release` folder in the `final_app` directory.
 3. On a Windows machine, double-click the executable file `predictor_app_frontend` to start the frontend application.
 
-
-
-
-### 6001CEM Thesis
-
-For a more comprehensive understanding of the construction and design of each component in this repository, please refer to the accompanying thesis. The thesis provides an in-depth explanation of all aspects of this project.
