@@ -1,4 +1,3 @@
-# Joao Pestana SID: 11660295 6001CEM Individual Project
 
 # Overview
 
